@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:ModelSwift/ModelSwift.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ModelOBJC/ModelOBJC.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:App OBJC/App OBJC.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:FMDB/FMDB.xcodeproj">
+   </FileRef>
+</Workspace>
